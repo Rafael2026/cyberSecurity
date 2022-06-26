@@ -8,7 +8,8 @@
 </a>
 
 ## Have I been pwned?
-[![IMAGE ALT TEXT HERE](http://i3.ytimg.com/vi/zJ37hsUEICA/hqdefault.jpg)](https://www.youtube.com/watch?v=zJ37hsUEICA)<br/>
+<a href="https://www.youtube.com/watch?v=zJ37hsUEICA">Explanation - Have I been pwned?</a>
+
 <p>
   Click here and visit the <a href="https://haveibeenpwned.com/">official website</a>
 </p>
