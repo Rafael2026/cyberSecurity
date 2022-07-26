@@ -23,7 +23,7 @@
 </p>
 
 ## Legend cybersecurity - youtube
-<p>Youtube channel: <a href="https://www.youtube.com/c/s4vitar">s4vitar</a></p><br/>
+<p>Youtube channel: <a href="https://www.youtube.com/c/s4vitar">s4vitar</a></p>
 
 ## Study
 <ul>
