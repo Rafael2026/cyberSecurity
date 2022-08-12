@@ -12,6 +12,10 @@
   <li>
     <a href="https://www.lisainstitute.com/blogs/blog/diferencia-ciberseguridad-seguridad-informatica-seguridad-informacion">Cybersecurity vs IT security vs Information Secuirty</a>
   </li>
+  
+  <li>
+    <a href="https://www.titanfile.com/blog/cyber-security-tips-best-practices/">Tips for best practices</a>
+  </li>
 
 </ul>
 
