@@ -6,7 +6,7 @@
   </li>
 
   <li>
-    <a href="https://www.educaweb.com/profesion/especialista-ciberseguridad-991/">Cybersecurity - Educa web</a>
+    <a href="https://www.educaweb.com/profesion/especialista-ciberseguridad-991/">Educa web</a>
   </li>
 
   <li>
@@ -20,13 +20,13 @@
 </ul>
 
 ## Have I been pwned?
-<a href="https://www.youtube.com/watch?v=zJ37hsUEICA">Explanation - Have I been pwned?</a>
+<a href="https://www.youtube.com/watch?v=zJ37hsUEICA">Check your email or password</a>
 
 <p>
   Click here and visit the <a href="https://haveibeenpwned.com/">official website</a>
 </p>
 
-## Legend cybersecurity - youtube
+## Youtube legends
 <p>Youtube channel: <a href="https://www.youtube.com/c/s4vitar">s4vitar</a></p>
 
 ## Study
