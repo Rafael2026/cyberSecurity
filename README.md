@@ -33,19 +33,19 @@
 <ul>
 
   <li>
-    <a href="https://drive.google.com/drive/folders/15njY4VMOQVBS-NgfHewVM5ED7T5s5_xd?usp=sharing">Basic concepts</a>
+    <a href="https://drive.google.com/file/d/1pnFwGx9WvZRkgQgVS3dJav3juXRwUYj4/view">Basic concepts</a>
   </li>
 
   <li>
-    <a href="https://drive.google.com/drive/folders/1GNCBfqJiGgzfg26TnjiKm7pmEUlu2zXA?usp=sharing">Introduction</a>
+    <a href="https://drive.google.com/file/d/17r0xNzaWsrHZGOnxXK0TB6wt3j73qohm/view">Introduction</a>
   </li>
 
   <li>
-    <a href="https://drive.google.com/drive/folders/1KA7YlIofTn9Bdk_7iXIKpCcTSOl-8xiX?usp=sharing">Pentesting</a>
+    <a href="https://drive.google.com/file/d/15PcIyOWoIuSVfUykMu5LaR3lpI-fsHs0/view">Pentesting</a>
   </li>
 
   <li>
-    <a href="https://drive.google.com/drive/folders/1SXsk6h0YB7UZx9ocBEC-Gt48ZRA3hrWe?usp=sharing">Mail security</a>
+    <a href="https://drive.google.com/file/d/1eDkl0msS3i3Tm1qjeVxzWddmpSqzake5/view">Mail security</a>
   </li>
 
 </ul>
