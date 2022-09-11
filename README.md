@@ -49,3 +49,15 @@
   </li>
 
 </ul>
+
+## Lessons
+<a href="https://medium.com/cyberdefendersprogram/python-for-cyber-security-lesson-1-introduction-to-python-1976d817976">First lesson with python</a>
+
+## Cross-site scripting
+<a href="https://portswigger.net/web-security/cross-site-scripting">Almost everything you need to know</a>
+
+## Hashes
+<a href="https://www.browserling.com/tools/all-hashes">All Hash Generator</a>
+
+## HTTP Strict Transport Security (HSTS)
+<a href="https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security">HSTS - Wikipedia</a>
