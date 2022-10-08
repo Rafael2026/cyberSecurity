@@ -29,3 +29,14 @@ Youtube channel: [s4vitar](https://www.youtube.com/c/s4vitar)
 
 ## HTTP Strict Transport Security (HSTS)
 [HSTS - Wikipedia](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)
+
+## OSI Model
+| Layer | What it does | Where it is implemented |
+|---|---|---|
+| 7º Application | Where humans process data and information | Software |
+| 6º Presentation | Ensures data is in a usable format | Software |
+| 5º Session | Capable of maintaining connections | Software |
+| 4º Transport | Data is forwarded to a service capable of handling requests | Connects the software and hardware layers |
+| 3º Network Layer | Responsible for which path packets should travel on a network | Hardware |
+| 2º Data Link | Responsible for which physical devices packets should go to | Hardware |
+| 1º Physical | The physical infrastructure to transport data | Hardware |
