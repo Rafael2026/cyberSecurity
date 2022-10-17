@@ -19,10 +19,10 @@ Youtube channel: [s4vitar](https://www.youtube.com/c/s4vitar)
 - [Mail security](https://drive.google.com/file/d/1eDkl0msS3i3Tm1qjeVxzWddmpSqzake5/view)
 
 ## Lessons
-[First lesson with python](https://medium.com/cyberdefendersprogram/python-for-cyber-security-lesson-1-introduction-to-python-1976d817976)
+First lesson - [Python for Cybersecurity](https://medium.com/cyberdefendersprogram/python-for-cyber-security-lesson-1-introduction-to-python-1976d817976)
 
-## Cross-site scripting
-[Almost everything you need to know](https://portswigger.net/web-security/cross-site-scripting)
+## Cross-site scripting (XSS)
+Almost everything you need to know about [XSS](https://portswigger.net/web-security/cross-site-scripting)
 
 ## Hashes
 [All Hash Generator](https://www.browserling.com/tools/all-hashes)
@@ -40,3 +40,10 @@ Youtube channel: [s4vitar](https://www.youtube.com/c/s4vitar)
 | 3º Network Layer | Responsible for which path packets should travel on a network | Hardware |
 | 2º Data Link | Responsible for which physical devices packets should go to | Hardware |
 | 1º Physical | The physical infrastructure to transport data | Hardware |
+
+## Deep Web vs Dark Web vs Darknet
+Differences between [them](https://www.xataka.com/servicios/deep-web-dark-web-darknet-diferencias)
+
+## Tutorials
+- Cyber Security tutorial: [JAVATPOINT](https://www.javatpoint.com/cyber-security-tutorial)
+- SQL injection: [W3Schools](https://www.w3schools.com/sql/sql_injection.asp)
