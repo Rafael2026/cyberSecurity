@@ -47,3 +47,12 @@ Differences between [them](https://www.xataka.com/servicios/deep-web-dark-web-da
 ## Tutorials
 - Cyber Security tutorial: [JAVATPOINT](https://www.javatpoint.com/cyber-security-tutorial)
 - SQL injection: [W3Schools](https://www.w3schools.com/sql/sql_injection.asp)
+
+## Cybersecurity software
+What is a cybersecurity software for?: [link](https://www.redseguridad.com/actualidad/software-de-ciberseguridad_20220816.html)
+
+## OpenWebinars
+Shell Scripting on [Windows](https://openwebinars.net/blog/shell-scripting-en-sistemas-windows/)
+
+## Bash shell course
+[![Bash shell course](img/picture.webp)](https://www.ra-ma.es/libro/curso-de-programacion-bash-shell_140505/)
