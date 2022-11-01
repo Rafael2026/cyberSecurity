@@ -4,10 +4,9 @@
 - [Cybersecurity vs IT security vs Information Secuirty](https://www.lisainstitute.com/blogs/blog/diferencia-ciberseguridad-seguridad-informatica-seguridad-informacion)
 - [Tips for best practices](https://www.titanfile.com/blog/cyber-security-tips-best-practices/)
 
-## Have I been pwned?
-[Check your email or password](https://www.youtube.com/watch?v=zJ37hsUEICA)
-
-Click here and visit the [official website](https://haveibeenpwned.com/)
+## Check your email or password
+- Youtube explanation: [link](https://www.youtube.com/watch?v=zJ37hsUEICA)
+- Have I been pwned? [official link](https://haveibeenpwned.com/)
 
 ## Youtube legends
 Youtube channel: [s4vitar](https://www.youtube.com/c/s4vitar)
@@ -28,10 +27,10 @@ Almost everything you need to know about [XSS](https://portswigger.net/web-secur
 [All Hash Generator](https://www.browserling.com/tools/all-hashes)
 
 ## HTTP Strict Transport Security (HSTS)
-[HSTS - Wikipedia](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)
+Wikipedia: [link](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)
 
 ## OSI Model
-| Layer | What it does | Where it is implemented |
+| Layer | What does it do= | Where is it implemented? |
 |---|---|---|
 | 7º Application | Where humans process data and information | Software |
 | 6º Presentation | Ensures data is in a usable format | Software |
@@ -56,3 +55,7 @@ Shell Scripting on [Windows](https://openwebinars.net/blog/shell-scripting-en-si
 
 ## Bash shell course
 [![Bash shell course](img/picture.webp)](https://www.ra-ma.es/libro/curso-de-programacion-bash-shell_140505/)
+
+## Online tools
+- Antivirus online [Xataka](https://www.xataka.com/basics/16-antivirus-online-gratis-para-buscar-amenazas-descargar-nada)
+- Surf on the net [without ads and safely](https://adguard.com/es/welcome.html)
