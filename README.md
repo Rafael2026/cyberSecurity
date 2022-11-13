@@ -59,3 +59,7 @@ Shell Scripting on [Windows](https://openwebinars.net/blog/shell-scripting-en-si
 ## Online tools
 - Antivirus online [Xataka](https://www.xataka.com/basics/16-antivirus-online-gratis-para-buscar-amenazas-descargar-nada)
 - Surf on the net [without ads and safely](https://adguard.com/es/welcome.html)
+
+## Information security
+- Ceupe policies: [![picture](img/picture2.jpg)](https://www.ceupe.com/blog/ejemplo-politica-seguridad-informacion-y-sgsi.html)
+- Pirani policies: [picture](https://www.piranirisk.com/es/academia/especiales/guia-politica-de-seguridad-de-la-informacion)
