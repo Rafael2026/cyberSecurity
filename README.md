@@ -63,3 +63,20 @@ Shell Scripting on [Windows](https://openwebinars.net/blog/shell-scripting-en-si
 ## Information security (Ceupe policies)
 [![picture](img/picture2.jpg)](https://www.ceupe.com/blog/ejemplo-politica-seguridad-informacion-y-sgsi.html)
 - Pirani policies: [picture](https://www.piranirisk.com/es/academia/especiales/guia-politica-de-seguridad-de-la-informacion)
+
+## GitHub repositories
+- The art of hacking: [Official link](https://github.com/The-Art-of-Hacking/h4cker)
+- Awesome Machine Learning for Cyber Security: [Official link](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+- Security Study Plan: [Official link](https://github.com/jassics/security-study-plan)
+
+## Security for web development
+15 Critical Security Tips for Web Development in 2023: [Official link](https://www.netguru.com/blog/web-development-security)
+
+## Firewall ports - Windows 10
+How to close or open Firewall ports in Windows 10? [Official link](https://computerhoy.com/noticias/internet/como-cerrar-abrir-puertos-del-firewall-windows-10-73051)
+
+## Encryption vs firewall
+Does encryption make the firewall irrelevant?: [Official link](https://news.sophos.com/es-es/2019/12/05/el-cifrado-hace-que-el-firewall-sea-irrelevante/)
+
+## 25 types of cyber attacks
+How to prevent all them?: [Official link](https://ciberseguridad.blog/25-tipos-de-ataques-informaticos-y-como-prevenirlos/)
