@@ -1,4 +1,3 @@
-
 ## Microsoft course
 [Describe basic cybersecurity threats, attacks, and mitigations](https://learn.microsoft.com/en-us/training/modules/describe-basic-cybersecurity-threats-attacks-mitigations/)
 
