@@ -1,4 +1,3 @@
-
 ## Microsoft course
 [Describe basic cybersecurity threats, attacks, and mitigations](https://learn.microsoft.com/en-us/training/modules/describe-basic-cybersecurity-threats-attacks-mitigations/)
 
@@ -11,4 +10,4 @@ More information in the first link
 ## Pictures
 <img src="../img/goals.png" alt="Cybersecurity goals" width="200px" height="200px"><br/>
 
-<img src="../img/attackVectors.png" alt="Cybersecurity goals" width="300px" height="300px"><br/>
+<img src="../img/attackVectors.png" alt="Cybersecurity goals" width="1024px" height="200px"><br/>
