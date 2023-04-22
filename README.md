@@ -54,14 +54,19 @@ What is a cybersecurity software for?: [link](https://www.redseguridad.com/actua
 Shell Scripting on [Windows](https://openwebinars.net/blog/shell-scripting-en-sistemas-windows/)
 
 ## Bash shell course
-[![Bash shell course](img/picture.webp)](https://www.ra-ma.es/libro/curso-de-programacion-bash-shell_140505/)
+<a href="https://www.ra-ma.es/libro/curso-de-programacion-bash-shell_140505/">
+  <img src="img/picture.webp" alt="Bash shell course" width="250px" height="350px">
+</a>
 
 ## Online tools
 - Antivirus online [Xataka](https://www.xataka.com/basics/16-antivirus-online-gratis-para-buscar-amenazas-descargar-nada)
 - Surf on the net [without ads and safely](https://adguard.com/es/welcome.html)
 
 ## Information security (Ceupe policies)
-[![picture](img/picture2.jpg)](https://www.ceupe.com/blog/ejemplo-politica-seguridad-informacion-y-sgsi.html)
+<a href="https://www.ceupe.com/blog/ejemplo-politica-seguridad-informacion-y-sgsi.html">
+  <img src="img/picture2.jpg" alt="Blog CEUPE" width="400px" height="250px">
+</a>
+
 - Pirani policies: [picture](https://www.piranirisk.com/es/academia/especiales/guia-politica-de-seguridad-de-la-informacion)
 
 ## GitHub repositories
