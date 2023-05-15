@@ -9,7 +9,8 @@
 - Have I been pwned? [official link](https://haveibeenpwned.com/)
 
 ## Youtube legends
-Youtube channel: [s4vitar](https://www.youtube.com/c/s4vitar)
+- S4VITAR: [Youtube channel](https://www.youtube.com/c/s4vitar)
+- TheGoodHacker: [Youtube channel](https://www.youtube.com/c/thegoodhacker)
 
 ## Study
 - [Basic concepts](https://drive.google.com/file/d/1pnFwGx9WvZRkgQgVS3dJav3juXRwUYj4/view)
@@ -89,3 +90,7 @@ How to prevent all them?: [Official link](https://ciberseguridad.blog/25-tipos-d
 
 ## INCIBE
 Cybersecurity courses: [vimeo](https://ciberseguridad.blog/25-tipos-de-ataques-informaticos-y-como-prevenirlos/)
+
+
+## Practice hacking attacks
+Vulnerable OS: [Blog](https://blog.elhacker.net/2022/02/sistemas-vulnerables-para-practicar-legalmente-pentesting.html)
