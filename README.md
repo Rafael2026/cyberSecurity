@@ -87,10 +87,56 @@ Does encryption make the firewall irrelevant?: [Official link](https://news.soph
 ## 25 types of cyber attacks
 How to prevent all them?: [Official link](https://ciberseguridad.blog/25-tipos-de-ataques-informaticos-y-como-prevenirlos/)
 
-
 ## INCIBE
 Cybersecurity courses: [vimeo](https://ciberseguridad.blog/25-tipos-de-ataques-informaticos-y-como-prevenirlos/)
 
+## Practice ethical hacking attacks
+- Vulnerable OS: [Blog](https://blog.elhacker.net/2022/02/sistemas-vulnerables-para-practicar-legalmente-pentesting.html)
 
-## Practice hacking attacks
-Vulnerable OS: [Blog](https://blog.elhacker.net/2022/02/sistemas-vulnerables-para-practicar-legalmente-pentesting.html)
+<table>
+  <thead>
+    <tr>
+      <th>
+        Recommendations: <a ref="https://www.redeszone.net/tutoriales/seguridad/paginas-aprender-hacking-etico-internet/">RedesZone</a>
+      </th>
+    </tr>
+  <thead>
+  <tbody>
+    <tr>
+      <td>Hack The Box: <a ref="https://www.hackthebox.com/">Official link</a></td>
+    </tr>
+    <tr>
+      <td>Tryhackme: <a ref="https://tryhackme.com/">Official link</a></td>
+    </tr>
+    <tr>
+      <td>Pentester Lab: <a ref="https://pentesterlab.com/">Official link</a></td>
+    </tr>
+    <tr>
+      <td>VulnHub: <a href="https://www.vulnhub.com/">Official link</a></td>
+    </tr>
+    <tr>
+      <td>HackThis: <a href="https://defendtheweb.net/">Official link</a></td>
+    </tr>
+    <tr>
+      <td>Google Gruyere: <a href="https://google-gruyere.appspot.com/">Official link</a></td>
+    </tr>
+    <tr>
+      <td>OverTheWire: <a href="https://overthewire.org/wargames/">Official link</a></td>
+    </tr>
+    <tr>
+      <td>bWAPP: <a href="http://www.itsecgames.com/">Official link</a></td>
+    </tr>
+    <tr>
+      <td>Offensive Security: <a href="https://www.offsec.com/">Official link</a></td>
+    </tr>
+    <tr>
+      <td>Cybrary: <a href="https://www.cybrary.it/">Official link</a></td>
+    </tr>
+    <tr>
+      <td>HackThisSite: <a href="https://www.hackthissite.org/pages/index/index.php">Official link</a></td>
+    </tr>
+    <tr>
+      <td>Root Me: <a href="https://www.root-me.org/">Official link</a></td>
+    </tr>
+  </tbody>
+</table>
