@@ -29,6 +29,3 @@
 <br/>
 
 Encryption explanation: [video](https://www.microsoft.com/en-us/videoplayer/embed/RWNyAM?postJsllMsg=true)
-
-## GitHub repositories
-A web hacking toolkit: [docker image](https://github.com/hueristiq/web-hacking-toolkit)

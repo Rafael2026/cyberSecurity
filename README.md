@@ -74,6 +74,7 @@ Shell Scripting on [Windows](https://openwebinars.net/blog/shell-scripting-en-si
 - The art of hacking: [Official link](https://github.com/The-Art-of-Hacking/h4cker)
 - Awesome Machine Learning for Cyber Security: [Official link](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 - Security Study Plan: [Official link](https://github.com/jassics/security-study-plan)
+- A web hacking toolkit: [docker image](https://github.com/hueristiq/web-hacking-toolkit)
 
 ## Security for web development
 15 Critical Security Tips for Web Development in 2023: [Official link](https://www.netguru.com/blog/web-development-security)
