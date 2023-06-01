@@ -1,6 +1,6 @@
 ## CyberSecurity links
-- [8 examples of malware](https://arcticwolf.com/resources/blog/8-types-of-malware)
-- [Educa web](https://www.educaweb.com/profesion/especialista-ciberseguridad-991/)
+- 10 Most Common Types: [Malware Attacks](https://arcticwolf.com/resources/blog/8-types-of-malware)
+- Educa web: [Official link](https://www.educaweb.com/profesion/especialista-ciberseguridad-991/)
 - [Cybersecurity vs IT security vs Information Secuirty](https://www.lisainstitute.com/blogs/blog/diferencia-ciberseguridad-seguridad-informatica-seguridad-informacion)
 - [Tips for best practices](https://www.titanfile.com/blog/cyber-security-tips-best-practices/)
 
