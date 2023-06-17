@@ -45,8 +45,10 @@ Wikipedia: [link](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)
 Differences between [them](https://www.xataka.com/servicios/deep-web-dark-web-darknet-diferencias)
 
 ## Tutorials
-- Cyber Security tutorial: [JAVATPOINT](https://www.javatpoint.com/cyber-security-tutorial)
+- Cyber Security: [JAVATPOINT tutorial](https://www.javatpoint.com/cyber-security-tutorial)
 - SQL injection: [W3Schools](https://www.w3schools.com/sql/sql_injection.asp)
+- Ethical hacking: [JAVATPOINT tutorial](https://www.javatpoint.com/ethical-hacking)
+
 
 ## Cybersecurity software
 What is a cybersecurity software for?: [link](https://www.redseguridad.com/actualidad/software-de-ciberseguridad_20220816.html)
@@ -61,7 +63,7 @@ Shell Scripting on [Windows](https://openwebinars.net/blog/shell-scripting-en-si
 
 ## Online tools
 - Antivirus online [Xataka](https://www.xataka.com/basics/16-antivirus-online-gratis-para-buscar-amenazas-descargar-nada)
-- Surf on the net [without ads and safely](https://adguard.com/es/welcome.html)
+- Surf on the net [without ads and safely](https://adguard.com/en/welcome.html)
 
 ## Information security (Ceupe policies)
 <a href="https://www.ceupe.com/blog/ejemplo-politica-seguridad-informacion-y-sgsi.html">
