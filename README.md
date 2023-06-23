@@ -91,7 +91,10 @@ Does encryption make the firewall irrelevant?: [Official link](https://news.soph
 How to prevent all them?: [Official link](https://ciberseguridad.blog/25-tipos-de-ataques-informaticos-y-como-prevenirlos/)
 
 ## INCIBE
-Cybersecurity courses: [vimeo](https://ciberseguridad.blog/25-tipos-de-ataques-informaticos-y-como-prevenirlos/)
+- Cybersecurity courses: [vimeo](https://ciberseguridad.blog/25-tipos-de-ataques-informaticos-y-como-prevenirlos/)
+- Defacement: [definition](https://www.incibe.es/aprendeciberseguridad/defacement)
+- Web spoofing: [Official link](https://www.incibe.es/empresas/blog/spoofing-todo-lo-que-necesitas-saber-para-proteger-tu-empresa)
+- Glossary of Cybersecurity Terms: [Official link](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_glosario_ciberseguridad_2021.pdf)
 
 ## Practice ethical hacking attacks
 - Vulnerable OS: [Blog](https://blog.elhacker.net/2022/02/sistemas-vulnerables-para-practicar-legalmente-pentesting.html)
@@ -146,3 +149,5 @@ Cybersecurity courses: [vimeo](https://ciberseguridad.blog/25-tipos-de-ataques-i
 
 ## Ways to view Real-Time Cyberattack Maps
 Live Hacking Attack: [Geekflare link](https://geekflare.com/real-time-cyber-attacks/)
+
+## 
