@@ -1,3 +1,13 @@
+## Cybersecurity OS
+- Download Kaki Linux: [Official link](https://www.kali.org/)
+- Download Parrot OS : [Official link](https://www.parrotsec.org/)
+
+## Study
+- [Basic concepts](https://drive.google.com/file/d/1pnFwGx9WvZRkgQgVS3dJav3juXRwUYj4/view)
+- [Introduction](https://drive.google.com/file/d/17r0xNzaWsrHZGOnxXK0TB6wt3j73qohm/view)
+- [Pentesting](https://drive.google.com/file/d/15PcIyOWoIuSVfUykMu5LaR3lpI-fsHs0/view)
+- [Mail security](https://drive.google.com/file/d/1eDkl0msS3i3Tm1qjeVxzWddmpSqzake5/view)
+
 ## CyberSecurity links
 - 10 Most Common Types: [Malware Attacks](https://arcticwolf.com/resources/blog/8-types-of-malware)
 - Educa web: [Official link](https://www.educaweb.com/profesion/especialista-ciberseguridad-991/)
@@ -8,15 +18,43 @@
 - Youtube explanation: [link](https://www.youtube.com/watch?v=zJ37hsUEICA)
 - Have I been pwned? [official link](https://haveibeenpwned.com/)
 
-## Youtube legends
-- S4VITAR: [Youtube channel](https://www.youtube.com/c/s4vitar)
-- TheGoodHacker: [Youtube channel](https://www.youtube.com/c/thegoodhacker)
+## Tools
+<table>
+  <thead>
+    <tr>
+      <th>Homepage</th>
+      <th>Documentation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://nmap.org/">
+          <img src="./img/nmap.png" alt="Nmap logo">
+        </a>
+      </td>
+      <td><a href="https://nmap.org/docs.html">Official documentation</a></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://docs.crowdsec.net/">
+          <img src="./img/crowdsec.png" alt="Nmap logo" width="168px" height="90px">
+        </a>
+      </td>
+      <td><a href="https://docs.crowdsec.net/docs/intro">Official documentation</a></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.kali.org/tools/wifite/">
+          <img src="./img/wifite.png" alt="Nmap logo" width="120px" height="120px">
+        </a>
+      </td>
+      <td><a href="https://www.kali.org/tools/wifite/">Official documentation</a></td>
+    </tr>
+  </tbody>
+</table>
 
-## Study
-- [Basic concepts](https://drive.google.com/file/d/1pnFwGx9WvZRkgQgVS3dJav3juXRwUYj4/view)
-- [Introduction](https://drive.google.com/file/d/17r0xNzaWsrHZGOnxXK0TB6wt3j73qohm/view)
-- [Pentesting](https://drive.google.com/file/d/15PcIyOWoIuSVfUykMu5LaR3lpI-fsHs0/view)
-- [Mail security](https://drive.google.com/file/d/1eDkl0msS3i3Tm1qjeVxzWddmpSqzake5/view)
+
 
 ## Lessons
 First lesson - [Python for Cybersecurity](https://medium.com/cyberdefendersprogram/python-for-cyber-security-lesson-1-introduction-to-python-1976d817976)
@@ -139,7 +177,9 @@ How to prevent all them?: [Official link](https://ciberseguridad.blog/25-tipos-d
       <td>Cybrary: <a href="https://www.cybrary.it/">Official link</a></td>
     </tr>
     <tr>
-      <td>HackThisSite: <a href="https://www.hackthissite.org/pages/index/index.php">Official link</a></td>
+      <td>
+        HackThisSite: <a href="https://www.hackthissite.org/pages/index/index.php">Official link</a>
+      </td>
     </tr>
     <tr>
       <td>Root Me: <a href="https://www.root-me.org/">Official link</a></td>
@@ -150,4 +190,13 @@ How to prevent all them?: [Official link](https://ciberseguridad.blog/25-tipos-d
 ## Ways to view Real-Time Cyberattack Maps
 Live Hacking Attack: [Geekflare link](https://geekflare.com/real-time-cyber-attacks/)
 
-## 
+## Google Dorking
+Google Dorking , also known as Google Haking, is a hacker technique which consists of applying Google's advanced search to find specific information on the Internet by filtering the results with operators (known as dorks).
+
+- Incibe: [Google dorks help you to find information about yourself online.](https://www.incibe.es/ciudadania/blog/google-dorks-te-ayuda-encontrar-informacion-sobre-ti-en-la-red)
+- Google dorking: [Useful link](https://derechodelared.com/google-dorking-que-es/)
+- GHDB (Google Hacking DataBase): [Google dorks](https://www.exploit-db.com/google-hacking-database)
+
+## Youtube legends
+- S4VITAR: [Youtube channel](https://www.youtube.com/c/s4vitar)
+- TheGoodHacker: [Youtube channel](https://www.youtube.com/c/thegoodhacker)
