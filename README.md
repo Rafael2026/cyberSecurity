@@ -133,6 +133,7 @@ How to prevent all them?: [Official link](https://ciberseguridad.blog/25-tipos-d
 - Defacement: [definition](https://www.incibe.es/aprendeciberseguridad/defacement)
 - Web spoofing: [Official link](https://www.incibe.es/empresas/blog/spoofing-todo-lo-que-necesitas-saber-para-proteger-tu-empresa)
 - Glossary of Cybersecurity Terms: [Official link](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_glosario_ciberseguridad_2021.pdf)
+- Downloadable Challenges: [Official link](https://www.incibe.es/ed2026/talento-hacker/academia-hacker/retosdescargables)
 
 ## Practice ethical hacking attacks
 - Vulnerable OS: [Blog](https://blog.elhacker.net/2022/02/sistemas-vulnerables-para-practicar-legalmente-pentesting.html)
