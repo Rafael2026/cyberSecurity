@@ -54,8 +54,6 @@
   </tbody>
 </table>
 
-
-
 ## Lessons
 First lesson - [Python for Cybersecurity](https://medium.com/cyberdefendersprogram/python-for-cyber-security-lesson-1-introduction-to-python-1976d817976)
 
@@ -86,7 +84,6 @@ Differences between [them](https://www.xataka.com/servicios/deep-web-dark-web-da
 - Cyber Security: [JAVATPOINT tutorial](https://www.javatpoint.com/cyber-security-tutorial)
 - SQL injection: [W3Schools](https://www.w3schools.com/sql/sql_injection.asp)
 - Ethical hacking: [JAVATPOINT tutorial](https://www.javatpoint.com/ethical-hacking)
-
 
 ## Cybersecurity software
 What is a cybersecurity software for?: [link](https://www.redseguridad.com/actualidad/software-de-ciberseguridad_20220816.html)
@@ -201,3 +198,13 @@ Google Dorking , also known as Google Haking, is a hacker technique which consis
 ## Youtube legends
 - S4VITAR: [Youtube channel](https://www.youtube.com/c/s4vitar)
 - TheGoodHacker: [Youtube channel](https://www.youtube.com/c/thegoodhacker)
+
+## SQL INJECTION
+GitHub repository: [Official link](https://github.com/sqlmapproject/sqlmap)
+
+```bash
+python sqlmap.py -u <<url>> --dbs
+```
+
+## Code Injection
+<img src="./img/command_injection.jpeg" alt="Command Injection" width="400px" height="240px">
