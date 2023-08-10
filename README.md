@@ -207,4 +207,4 @@ python sqlmap.py -u <<url>> --dbs
 ```
 
 ## Code Injection
-<img src="./img/command_injection.jpeg" alt="Command Injection" width="400px" height="240px">
+<img src="./img/command_injection.jpeg" alt="Command Injection" width="600px" height="280px">
