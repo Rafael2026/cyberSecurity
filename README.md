@@ -207,4 +207,6 @@ python sqlmap.py -u <<url>> --dbs
 ```
 
 ## Code Injection
-<img src="./img/command_injection.jpeg" alt="Command Injection" width="600px" height="280px">
+<a href="https://geekflare.com/prevent-os-command-injection/">
+  <img src="./img/command_injection.jpeg" alt="Command Injection" width="600px" height="280px">
+</a>
