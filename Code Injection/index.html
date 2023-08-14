@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Code Injection</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@latest/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <div class="container">
+
+    <div class="header">
+
+      <nav>
+        <ul class="nav nav-pills pull-right">
+        </ul>
+      </nav>
+
+      <h3 class="text-muted">Cloud Storage Information</h3>
+
+    </div>
+
+    <h3>
+      Files:
+
+      <!-- Coming from API -->
+      <ul>
+        <li>bye </li>
+        <li>hi </li>
+        <li>taxes </li>
+      </ul>
+
+    </h3>
+
+    <div class="jumbotron">
+
+      <h1>New file</h1>
+
+      <form method="post" action="/createnewfile">
+        <label for="filename">File Name</label>
+        <input type="text" name="inputFilename" id="inputFilename" class="form-control" placeholder="File Name" required="">
+        <button type="submit" class="btn btn-primary">Create File</button>
+      </form>
+
+    </div>
+
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@latest/dist/umd/popper.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@latest/dist/js/bootstrap.min.js" defer></script>
+  <script src="script.js" defer></script>
+
+</body>
+
+</html>
