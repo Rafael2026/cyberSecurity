@@ -205,3 +205,14 @@ GitHub repository: [Official link](https://github.com/sqlmapproject/sqlmap)
 ```bash
 python sqlmap.py -u <<url>> --dbs
 ```
+
+## Common ports - Cheat Sheet
+The Ultimate Ports & Protocols List: [Official link](https://www.stationx.net/common-ports-cheat-sheet/)
+
+## Web Application Security Risks
+TOP 10: [Official link](https://owasp.org/www-project-top-ten/)
+
+## TMUX
+- Tmux Cheat Sheet & Quick Reference: [Official link](https://tmuxcheatsheet.com/)
+- Youtube tutorial: [Official link](https://www.youtube.com/watch?v=Lqehvpe_djs)
+
