@@ -24,6 +24,7 @@
     <tr>
       <th>Homepage</th>
       <th>Documentation</th>
+      <th>Github repository</th>
     </tr>
   </thead>
   <tbody>
@@ -33,7 +34,12 @@
           <img src="./img/nmap.png" alt="Nmap logo">
         </a>
       </td>
-      <td><a href="https://nmap.org/docs.html">Official documentation</a></td>
+      <td>
+        <a href="https://nmap.org/docs.html">Official documentation</a>
+      </td>
+      <td>
+        <a href="https://github.com/nmap/nmap">Nmap Github</a>
+      </td>
     </tr>
     <tr>
       <td>
@@ -41,7 +47,12 @@
           <img src="./img/crowdsec.png" alt="Nmap logo" width="168px" height="90px">
         </a>
       </td>
-      <td><a href="https://docs.crowdsec.net/docs/intro">Official documentation</a></td>
+      <td>
+        <a href="https://docs.crowdsec.net/docs/intro">Official documentation</a>
+      </td>
+      <td>
+        <a href="https://github.com/crowdsecurity/crowdsec">Crowdsec Github</a>
+      </td>
     </tr>
     <tr>
       <td>
@@ -49,7 +60,12 @@
           <img src="./img/wifite.png" alt="Nmap logo" width="120px" height="120px">
         </a>
       </td>
-      <td><a href="https://www.kali.org/tools/wifite/">Official documentation</a></td>
+      <td>
+        <a href="https://www.kali.org/tools/wifite/">Official documentation</a>
+      </td>
+      <td>
+        <a href="https://github.com/derv82/wifite">Wifite Github</a>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -67,7 +83,7 @@ Almost everything you need to know about [XSS](https://portswigger.net/web-secur
 Wikipedia: [link](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)
 
 ## OSI Model
-| Layer | What does it do= | Where is it implemented? |
+| Layer | What does it do? | Where is it implemented? |
 |---|---|---|
 | 7º Application | Where humans process data and information | Software |
 | 6º Presentation | Ensures data is in a usable format | Software |
@@ -99,6 +115,7 @@ Shell Scripting on [Windows](https://openwebinars.net/blog/shell-scripting-en-si
 ## Online tools
 - Antivirus online [Xataka](https://www.xataka.com/basics/16-antivirus-online-gratis-para-buscar-amenazas-descargar-nada)
 - Surf on the net [without ads and safely](https://adguard.com/en/welcome.html)
+- Tool to code and decode data: [CyberChef](https://gchq.github.io/CyberChef/)
 
 ## Information security (Ceupe policies)
 <a href="https://www.ceupe.com/blog/ejemplo-politica-seguridad-informacion-y-sgsi.html">
@@ -216,3 +233,5 @@ TOP 10: [Official link](https://owasp.org/www-project-top-ten/)
 - Tmux Cheat Sheet & Quick Reference: [Official link](https://tmuxcheatsheet.com/)
 - Youtube tutorial: [Official link](https://www.youtube.com/watch?v=Lqehvpe_djs)
 
+## Microsoft Software Vulnerabilities
+Exploit created by the NSA as a cyberattack tool [Avast link](https://www.avast.com/c-eternalblue)
