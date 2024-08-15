@@ -228,3 +228,6 @@ TOP 10: [Official link](https://owasp.org/www-project-top-ten/)
 
 ## Microsoft Software Vulnerabilities
 Exploit created by the NSA as a cyberattack tool [Avast link](https://www.avast.com/c-eternalblue)
+
+## CVSS RATINGS
+<img src="./img/CVSS_Ratings.png" alt="CVSS 2.0 and CVSS 3.0 Ratings">
