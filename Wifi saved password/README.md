@@ -18,7 +18,7 @@ Exfiltrate all saved Wi-Fi passwords from a Windows PC.
 
 2. Run builder
 ```bash
-python3 build.py <webhook_url>
+python build.py <webhook_url>
 ```
 Executable will be placed inside the `dist` folder
 

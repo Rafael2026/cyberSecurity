@@ -43,6 +43,19 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.wireshark.org/">
+          <img src="./img/wireshark.jpg" alt="Wireshark logo" width="168px" height="90px">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.wireshark.org/docs/">Official documentation</a>
+      </td>
+      <td>
+        <a href="https://github.com/wireshark/wireshark">Nmap Github</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://docs.crowdsec.net/">
           <img src="./img/crowdsec.png" alt="Nmap logo" width="168px" height="90px">
         </a>
@@ -57,7 +70,7 @@
     <tr>
       <td>
         <a href="https://www.kali.org/tools/wifite/">
-          <img src="./img/wifite.png" alt="Nmap logo" width="120px" height="120px">
+          <img src="./img/wifite.png" alt="Nmap logo" width="168px" height="90px">
         </a>
       </td>
       <td>
