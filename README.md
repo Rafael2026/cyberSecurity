@@ -170,19 +170,19 @@ How to prevent all them?: [Official link](https://ciberseguridad.blog/25-tipos-d
   <thead>
     <tr>
       <th>
-        Recommendations: <a ref="https://www.redeszone.net/tutoriales/seguridad/paginas-aprender-hacking-etico-internet/">RedesZone</a>
+        Recommendations: <a href="https://www.redeszone.net/tutoriales/seguridad/paginas-aprender-hacking-etico-internet/">RedesZone</a>
       </th>
     </tr>
   <thead>
   <tbody>
     <tr>
-      <td>Hack The Box: <a ref="https://www.hackthebox.com/">Official link</a></td>
+      <td>Hack The Box: <a href="https://www.hackthebox.com/">Official link</a></td>
     </tr>
     <tr>
-      <td>Tryhackme: <a ref="https://tryhackme.com/">Official link</a></td>
+      <td>Tryhackme: <a href="https://tryhackme.com/">Official link</a></td>
     </tr>
     <tr>
-      <td>Pentester Lab: <a ref="https://pentesterlab.com/">Official link</a></td>
+      <td>Pentester Lab: <a href="https://pentesterlab.com/">Official link</a></td>
     </tr>
     <tr>
       <td>VulnHub: <a href="https://www.vulnhub.com/">Official link</a></td>
